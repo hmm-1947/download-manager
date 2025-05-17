@@ -1,4 +1,5 @@
-**Java Download Manager**
+__Java Download Manager__
+
 A lightweight multi-threaded file downloader built in Java. Supports pause/resume, download speed limiting, and real-time progress tracking.
 
 **Features**
